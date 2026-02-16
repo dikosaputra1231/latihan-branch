@@ -1,2 +1,2 @@
 # latihan-branch
-ini adalah branch main
+ini adalah branch dari development
