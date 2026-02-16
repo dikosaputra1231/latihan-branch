@@ -1,2 +1,2 @@
 # latihan-branch
-ini adalah branch dari deveeopment
+ini adalah branch dari development
