@@ -1,2 +1,2 @@
 # latihan-branch
-latihan branch dengan github
+ini adalah branch dari deveeopment
